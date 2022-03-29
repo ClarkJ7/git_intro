@@ -1,2 +1,1 @@
-"James Clark" 
-24
+"James Clark"
